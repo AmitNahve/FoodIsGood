@@ -1,0 +1,13 @@
+{"recipes":[
+  {
+  "id": 1,
+  "name": "Chocolate Cake",
+  "ingredients": ["flour", "sugar", "cocoa powder", "eggs", "milk"],
+  "description": "A delicious chocolate cake recipe.",
+  "levelOfDifficulty": 2,
+  "preparationTime": 120,
+  "publishDate": "2022-01-01T00:00:00.000Z",
+  "image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRvYy2tlcmbE6AIssQoo5h6a9T6MG-5383FFbvpkGkt_eoRWeIjUGxqEQ8dQ0HMkcPv"
+}
+]
+}
